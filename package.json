@@ -1,4 +1,6 @@
 {
+  "type": "module",
+  "main": "dist/main.js",
   "scripts": {
     "build": "node esbuild.js",
     "push": "clasp push",
